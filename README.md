@@ -1,6 +1,4 @@
-⚠   **NOTICE**: You are viewing the README of **ginjo** fork of the **omniauth-slack** gem.
-This document may refer to features not yet released. Conversely (inversely?) this branch may contain features  and changes not yet documented.
-
+⚠   **NOTICE**: You are viewing the README of the **ginjo** fork of the **omniauth-slack** gem.
 
 # OmniAuth Slack, a Ruby Gem
 
