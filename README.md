@@ -383,7 +383,7 @@ To extract data from the API response, call `parsed` on the response object.
 
 Each Successful OmniAuth authorization places an
 [AuthHash](https://github.com/omniauth/omniauth/wiki/Auth-Hash-Schema) object in the environment `env['omniauth.auth']`.
-The AuthHash is just an enhanced hash object containing data from the[OAuth2](https://github.com/oauth-xx/oauth2)
+The AuthHash is just an enhanced hash object containing data from the [OAuth2](https://github.com/oauth-xx/oauth2)
 response received from the get-token API call made during the OmniAuth callback phase.
 See OmniAuth's documentation for the AuthHash schema definition.
 
